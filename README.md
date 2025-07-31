@@ -1,4 +1,4 @@
-Project Overview -
+Project Overview (Python) -
 This project demonstrates how to clean, impute, and prepare financial data from the Kaggle dataset "200+ Financial Indicators of US Stocks (2014–2018)", focusing on the 2018 dataset.
 
 The cleaning steps include:
