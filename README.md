@@ -6,6 +6,6 @@ The cleaning steps include:
 Inspecting and understanding the dataset.
 Handling missing values in the data.
 Removing meaningless records.
-Imputing useful and clear values into the dataset.
+Imputation of useful and clear values into the dataset.
 Saving a cleaned and well-structured dataset ready for analysis.
 This project showcases fundamental data cleaning skills using Python and pandas and is a strong example of real-world data preprocessing in the finance domain.
